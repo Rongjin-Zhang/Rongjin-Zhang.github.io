@@ -94,7 +94,7 @@ h6 {
 
 #header h2 span {
   color: #fff;
-  border-bottom: 2px solid #18d26e;
+  border-bottom: 2px solid #11dbcf;
   padding-bottom: 6px;
 }
 
@@ -241,7 +241,7 @@ h6 {
   height: 2px;
   bottom: -4px;
   left: 0;
-  background-color: #18d26e;
+  background-color: #11dbcf;
   visibility: hidden;
   width: 0px;
   transition: all 0.3s ease-in-out 0s;
@@ -457,7 +457,7 @@ section .container {
   font-size: 24px;
   background: rgba(255, 255, 255, 0.1);
   padding: 12px;
-  color: #18d26e;
+  color: #11dbcf;
   border-radius: 50px;
   line-height: 0;
 }
@@ -752,7 +752,7 @@ section .container {
 }
 
 .services .icon-box:hover .icon i {
-  color: #18d26e;
+  color: #11dbcf;
 }
 
 .services .icon-box:hover .icon::before {
